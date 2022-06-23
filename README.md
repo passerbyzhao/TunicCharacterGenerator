@@ -48,7 +48,7 @@
 > ![image](https://github.com/passerbyzhao/TunicCharacterGenerator/blob/2a2ffe82b32658e098b76e15e0428572839aa581/img/HowAreYou.jpg)
  
 > - 原文：Tunic Character Generator
-> - 输入：` python main.py --sentence "Tunic Character Generator" --fontsize 15`
+> - 输入：` python main.py --sentence "Tunic Character Generator" --fontsize 13`
 > - 输出：  
 > ![image](https://github.com/passerbyzhao/TunicCharacterGenerator/blob/2a2ffe82b32658e098b76e15e0428572839aa581/img/TunicCharacterGenerator.jpg)
 
